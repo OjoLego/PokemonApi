@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PokemonApi</string>
+    <string name="number">Number</string>
+    <string name="name">Name</string>
+    <string name="pokemon_btn">Get Pokemon</string>
+    <string name="no_data_to_display">No Data To Display</string>
+</resources>
